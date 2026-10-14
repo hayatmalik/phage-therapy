@@ -6,7 +6,7 @@ Phage therapy uses bacteriophages (viruses that infect bacteria) to treat bacter
 
 ## What was done
 
-Protein-level features (amino-acid composition, elemental composition and molecular weight) were computed for phage and host genomes, and K-means clustering was used to select reliable negative examples for a balanced dataset. Random Forest, K-Nearest Neighbours and a neural network were then trained on it; Random Forest performed best, with 99.6% test accuracy.
+Protein-level features (amino-acid composition, elemental composition and molecular weight) were computed for phage and host genomes, and K-means clustering was used to select reliable negative examples for a balanced dataset. Random Forest, K-Nearest Neighbours and a neural network were then trained on it; Random Forest performed best.
 
 Full details on the methods, results and references are in [DOCUMENTATION.md](DOCUMENTATION.md).
 
